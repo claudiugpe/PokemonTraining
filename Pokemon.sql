@@ -1,3 +1,8 @@
+create database Pokemon
+go
+
+use Pokemon
+
 
 create table PokemonType(
 	Id uniqueidentifier not null,
