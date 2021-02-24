@@ -160,3 +160,6 @@ insert into PokemonCharacter values (newid(), 'Raichu', @Raichu, @redId)
 insert into PokemonCharacter values (newid(), 'Blastoise', @Blastoise, @blueId)
 insert into PokemonCharacter values (newid(), 'Bulbasaur', @BulbasaurId, @blueId)
 insert into PokemonCharacter values (newid(), 'Venusaur', @Venusaur, @blueId)
+
+
+select * from Gym;
